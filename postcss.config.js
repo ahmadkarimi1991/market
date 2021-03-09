@@ -1,6 +1,15 @@
-module.exports = {
+const config = {
   plugins: {
+    'postcss-import' : {},
     tailwindcss: {},
-    autoprefixer: {},
-  },
+    autoprefixer: {}
+  }
 }
+
+if (process.env.NODE_ENV === 'production') {
+  config.plugins.cssnano = {
+    preset: 'default'
+  }
+}
+
+module.exports = config

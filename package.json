@@ -19,12 +19,14 @@
   },
   "homepage": "https://github.com/ahmadkarimi1991/market#readme",
   "dependencies": {
-    "@tailwindcss/forms": "latest",
-    "autoprefixer": "^10.2.4",
+    "@tailwindcss/forms": "^0.2.1",
+    "autoprefixer": "^10.2.5",
+    "cssnano": "^4.1.10",
     "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.0",
     "tailwindcss": "^2.0.3"
   },
   "devDependencies": {
-    "win-node-env": "latest"
+    "win-node-env": "0.4.0"
   }
 }
