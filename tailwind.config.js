@@ -15,6 +15,9 @@ module.exports = {
         lime: colors.lime,
         cyan: colors.cyan,
         blue: colors.lightBlue
+      },
+      fontSize: {
+        '2xs': '.625rem'
       }
     },
   },

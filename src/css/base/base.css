@@ -5,7 +5,3 @@ html {
 body {
     min-height: 100%;
 }
-
-[lang="ar"] {
-    font-family: 'Arabic UI Display';
-}

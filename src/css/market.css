@@ -2,7 +2,6 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-@import "base/fonts.css";
 @import "base/base.css";
 
 @import "utilities/direction.css";
