@@ -2,7 +2,9 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
+@import "utilities/direction.css";
+
 @import "base/fonts.css";
 @import "base/base.css";
 
-@import "utilities/direction.css";
+@import "components/image-overlay.css";

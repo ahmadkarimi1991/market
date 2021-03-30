@@ -10,14 +10,7 @@ module.exports = {
       colors: {
         brand: {
           DEFAULT: '#CE2D4F'
-        },
-        orange: colors.orange,
-        lime: colors.lime,
-        cyan: colors.cyan,
-        blue: colors.lightBlue
-      },
-      fontSize: {
-        '2xs': '.625rem'
+        }
       }
     },
   },
