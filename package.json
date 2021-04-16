@@ -1,7 +1,7 @@
 {
   "name": "market",
   "version": "1.0.0",
-  "description": "",
+  "description": "Market",
   "main": "index.js",
   "scripts": {
     "watch:css": "postcss ./src/css/**/*.css -o ./public/css/market.css --watch",
@@ -18,15 +18,13 @@
     "url": "https://github.com/ahmadkarimi1991/market/issues"
   },
   "homepage": "https://github.com/ahmadkarimi1991/market#readme",
-  "dependencies": {
-    "@tailwindcss/forms": "^0.2.1",
-    "autoprefixer": "^10.2.5",
-    "cssnano": "^4.1.10",
-    "postcss-cli": "^8.3.1",
-    "postcss-import": "^14.0.0",
-    "tailwindcss": "^2.0.3"
-  },
   "devDependencies": {
-    "win-node-env": "0.4.0"
+    "@tailwindcss/forms": "^0.3.2",
+    "autoprefixer": "^10.2.5",
+    "cssnano": "^5.0.1",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.1",
+    "tailwindcss": "^2.1.1",
+    "win-node-env": "^0.4.0"
   }
 }
