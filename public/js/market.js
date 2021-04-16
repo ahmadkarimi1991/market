@@ -1,1 +1,1 @@
-console.log('Hello, Welcome to eMall!');
+console.log('Market');
