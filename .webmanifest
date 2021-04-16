@@ -1,0 +1,8 @@
+{
+    "background_color": "#ce2d4f",
+    "description": "eMall",
+    "display": "fullscreen",
+    "name": "eMall",
+    "short_name": "eMall",
+    "start_url": "/"
+}
